@@ -1,2 +1,1 @@
-# TgBot
-//
+# ideahold.github.io
